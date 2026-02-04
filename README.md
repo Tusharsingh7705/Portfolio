@@ -1,16 +1,38 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern portfolio website built with React and Vite, featuring smooth animations and responsive design.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React 18** - Modern React with hooks
+- **Vite** - Fast development and build tool
+- **Tailwind CSS** - Utility-first CSS framework
+- **GSAP** - Professional animation library
+- **Framer Motion** - React animation library
+- **EmailJS** - Contact form functionality
+- **React Router** - Client-side routing
+- **Lucide React** - Modern icon library
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design for all devices
+- Smooth scroll animations
+- Interactive components
+- Contact form with email integration
+- Modern UI/UX design
+- Fast loading and optimized performance
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start development server: `npm run dev`
+4. Build for production: `npm run build`
+
+## Deployment
+
+Ready for deployment on platforms like:
+- Vercel
+- Netlify
+- GitHub Pages
+- Any static hosting service
