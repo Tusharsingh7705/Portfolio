@@ -104,6 +104,7 @@ const About = () => {
             <motion.div
               variants={cardVariants}
               className="col-span-2 p-6 bg-slate-900 dark:bg-white rounded-3xl flex items-center justify-between group cursor-pointer"
+              onClick={() => window.open('https://drive.google.com/file/d/1tK0KMde5bsxkR4cHkHe4hy-d9mcsnjta/view?usp=drive_link', '_blank')}
             >
               <span className="text-white dark:text-slate-900 font-bold">
                 Download Resume
